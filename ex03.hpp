@@ -4,10 +4,11 @@ using namespace std;
 
 int main()
 {
-    double bill;
-    double tiptotal;
-    double total;
-    double tip;
+	template <typename T>
+    T bill;
+    T tiptotal;
+    T total;
+    int tip;
 
     cout<<"\n\nWelcome to tip Calculator\n";
     cout <<"------------------------------\n";
